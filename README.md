@@ -43,5 +43,12 @@ Rscript Exam_FT.r
 In this way, the code written to answer the questions of the exam will be executed.
 
 ## Read the commented code 
-The commented code as well as all the other sessions of the exam project can be read in the HTML filed exported from the Exam_FT.ipynb notebook, provided by email and also contained in this repository. 
+The commented code as well as all the other sections of the exam project can be read in the HTML filed exported from the Exam_FT.ipynb notebook, provided by email and also contained in this repository. 
+
+The HTML file is organized in 5 different sections: 
+* Introduction: brief introduction about the biological problem investigated in the dataset 
+* Data Description: description of the dataset used in the analysis 
+* Results: the code written to perform the differential expression analysis, commented and supported with appropriate graphs and plots 
+* Discussion: brief conclusions and perspectives on the data obtained
+
 
