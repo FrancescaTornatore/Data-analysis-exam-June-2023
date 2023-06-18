@@ -4,8 +4,8 @@ The present is the Github repository containing the information on how to get th
 
 The image can be pulled from my Docker hub repository https://hub.docker.com/r/francescatornatore/data_analysis_exam_23. Here below are reported the instructions to be followed to pull the image and run the docker: 
 
-'''
+```
 docker pull francescatornatore/data_analysis_exam_23
-'''
+```
 
 
