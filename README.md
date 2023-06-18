@@ -43,5 +43,5 @@ Rscript Exam_FT.r
 In this way, the code written to answer the questions of the exam will be executed.
 
 ## Read the commented code 
-The commented code as well as all the other sessions of the exam project can be read in the HTML filed exported from the Exam_FT.ipynb notebook, provided by email and also contained in 
+The commented code as well as all the other sessions of the exam project can be read in the HTML filed exported from the Exam_FT.ipynb notebook, provided by email and also contained in this repository. 
 
