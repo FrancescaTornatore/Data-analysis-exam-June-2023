@@ -1,1 +1,5 @@
-# Data-analysis-exam-June-2023
+# Data analysis exam June 2023
+
+The present is the Github repository containing the information on how to get the docker image that has been used to solve all the points of the data analysis required in the exam tasks. 
+
+The image can be pulled from my Docker hub repository https://hub.docker.com/r/francescatornatore/data_analysis_exam_23 
